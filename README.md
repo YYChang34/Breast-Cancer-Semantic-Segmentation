@@ -58,7 +58,7 @@ The folder structure should be as follows:
 
 ```
 project_directory/
-├── model_13.ipynb
+├── model.ipynb
 ├── archive/
 │   ├── train_512
 │   ├── train_mask_512
@@ -69,7 +69,7 @@ project_directory/
 
 ### 5. Run the Main Program
 
-Execute model_13.ipynb in Jupyter Notebook
+Execute model.ipynb in Jupyter Notebook
 
 The program will automatically execute the following steps:
 1. Data Loading and Preprocessing:
